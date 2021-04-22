@@ -1,0 +1,5 @@
+ContractName,DealType,StartDate,EndDate,Volume,Granularity,StrikePrice,Premium,PriceName
+S1,Swap,2017-01-01,2017-03-31,20000,Daily,3,,Henry Hub
+S2,Swap,2017-01-01,2018-12-31,1000,Hourly,21,,HB_NORTH
+O1,European option,2017-06-01,2017-07-15,10000,Daily,2.9,0.1,GDA_TETSTX
+O2,European option,2018-10-01,2019-09-30,1000,Hourly,31.5,3,HB_HOUSTON
